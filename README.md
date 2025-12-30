@@ -12,7 +12,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
-  <img src="https://img.shields.io/badge/TUI-Textual-purple">
+   <img src="https://img.shields.io/badge/TUI-Textual-purple"> 
+<img src="https://img.shields.io/badge/TUI-Rich-orange?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Version-1.0-blue">
+
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20macOS-lightgrey">
   <img src="https://img.shields.io/badge/Status-Active-success">
 </p>
