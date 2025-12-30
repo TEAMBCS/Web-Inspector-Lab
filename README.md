@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_logo.png" width="380" alt="Logo">
 </p>
 
-<p aliga="center"><b> Web Inspectorb Lab </b> </p>
+<p align="center"><b> Web Inspectorb Lab </b> </p>
 
 <p align="center">
   Inspect • Test • Analyze  
