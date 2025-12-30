@@ -183,12 +183,12 @@ python3
 # 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic1.jpg" width="800">
-</p>
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic1.jpg" alt="pic1" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic2.jpg" alt="pic2" width="45%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_pic2.jpg" width="800">
-</p>
+
+  </p>
 
 gal & Ethical Noticel Noticeroject is inte
  
