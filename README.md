@@ -149,12 +149,13 @@ python3 web_analyzer.py
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_pic1.jpg" width="45%" alt="Screenshot 1">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Analyzer/main/Logo%20and%20Screenshot/Web_Analyzer_pic1.png" width="45%" alt="Screenshot 1">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Analyzer_pic2.jpg" width="45%" alt="Screenshot 2">
+   <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Analyzer/main/Logo%20and%20Screenshot/Web_Analyzer_pic2.png" width="45%" alt="Screenshot 2">
+  &nbsp;&nbsp;
+  
+  
 </p>
-
----
 
 ## ⚠️ Legal & Ethical Notice
 
