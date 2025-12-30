@@ -1,0 +1,5 @@
+textual
+aiohttp
+rich
+bs4 
+beautifulsoup4
