@@ -192,9 +192,9 @@ Always test responsibly and ethically.
 
 ## 👤 Autor Info
 
-Deceloper ➤ BLACK ZERO(https://github.com/BLACK-ZER-0)
-OWNER ➤ BANGLADESH CYBER SQUAD && TEAM SHADOW STRIKER 
-
+* Developer — *BLACK ZERO*
+* 🌐 GitHub: [BLACK-ZER-0](https://github.com/BLACK-ZER-0)
+* 🛡️ OWBER - *BANGLADESH CYBER SQUAD* && *TEAM SHADOW STRIKER*
 ---
 
 ## ⭐ Support & Contribu
