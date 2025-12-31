@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Inspect • Test • Analyze</em><br>
-  <strong>A Terminal-Based Web Inspection & Security Testing Lab</strong>
+  <strong>A Terminal-Based Web Inspection & Security Testing Lab - 2026 </strong>
 </p>
 
 <p align="center">
@@ -139,6 +139,7 @@ git clone https://github.com/TEAMBCS/Web-Analyzer.git
 cd Web-Analyzer
 chmod +x *
 chmod 777*
+chmod +w .
 pip install -r web-analyzer.txt
 python3 web_analyzer.py
 ```
@@ -155,6 +156,14 @@ python3 web_analyzer.py
   
   
 </p>
+
+---
+
+## 📃 Note 
+
+**Edit CSS Code as your wish**
+
+---
 
 ## ⚠️ Legal & Ethical Notice
 
