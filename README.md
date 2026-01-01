@@ -186,9 +186,9 @@ pip install textual --break-system-packages --ignore-installed pygments
 
 ## 👤 Author Info
 
-* **BLACK ZERO**
+* Developer :**BLACK ZERO**
 * GitHub: [BLACK-ZER-0](https://github.com/BLACK-ZER-0)
-* Member: *BANGLADESH CYBER SQUAD* & *TEAM SHADOW STRIKER*
+* Tool Owner : *BANGLADESH CYBER SQUAD* & *TEAM SHADOW STRIKER*
 
 ---
 
